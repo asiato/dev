@@ -1,0 +1,15 @@
+[submodule "services/web"]
+	path = services/web
+	url = git@github.com:asiato/web-service.git
+[submodule "services/accounts"]
+	path = services/accounts
+	url = git@github.com:asiato/accounts-service.git
+[submodule "services/projects"]
+	path = services/projects
+	url = git@github.com:asiato/projects-service.git
+[submodule "services/bff"]
+	path = services/bff
+	url = git@github.com:asiato/bff-server.git
+[submodule "services/auth"]
+	path = services/auth
+	url = git@github.com:asiato/auth.git
